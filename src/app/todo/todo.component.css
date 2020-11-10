@@ -1,0 +1,21 @@
+.strikethrough {
+  text-decoration: line-through;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.todos-container {
+  background-color: white;
+  width: 75%;
+  border-radius: 5px;
+}
+
+.task-container {
+  display: flex;
+  justify-content: space-between;
+}
+.task-start {
+  display: flex;
+}
